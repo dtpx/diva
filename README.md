@@ -33,7 +33,8 @@
 * `Play dead` – Diva is much more likely to listen if she was lying down, and only if she’s calm. She should lie down on her side and not move.
 * `Back` or `Go back` – sometimes it’s necessary to repeat this. She should take a few steps back. You can continue this by saying `more` afterwards.
 * `Paw` – she will give you her right paw. 
-* `Other paw`  - she will give you her left paw.  * `Turn around`- Diva will turn around 360 degrees in place.
+* `Other paw`  - she will give you her left paw.  
+* `Turn around`- Diva will turn around 360 degrees in place.
 * `Jump` – Diva will jump. Usually useful for when you tell her to sit, and you hold something up in the air. Then you can tell her to jump when you want her to get it.
 * `Fetch!`, `Get it!`, `Go!` – Diva will go get whatever you just threw. She does this normally without a command, but if you want, you can tell her to stay, then throw something (and possibly repeat `stay` once more), and then tell her to `fetch` it when you want her to `go get it`.
 * `Let Go` – Diva will let go of whatever is in her mouth. Lately, she doesn’t listen to this as much and to just anyone, since it’s over-used and repeated too often. Try offering her a treat the first few times you tell her, or offering her a different toy/ball than the one she has. This should get her listening to you in no time, and letting go of what she has.
@@ -50,7 +51,7 @@
 
 ## Mixins 
 
-Try mixing up `paw` and `fetch`, you’ll see her thinking and trying to get it right, it’s very cute. Make sure to reward her when you do this (e.g. "paw, paw, other paw" = treat if she got them all right).
+Try mixing up `paw` and `other paw`, you’ll see her thinking and trying to get it right, it’s very cute. Make sure to reward her when you do this (e.g. "paw, paw, other paw" = treat if she got them all right).
 
 Basically, if you have a ball, tell her to come to you and lie down. Then tell her to stay, and cover her eyes with your hand and tell her again to `STAY`. Then throw the ball. Uncover her eyes and tell her to `track it` and enjoy watching her search! She loves this too, since it’s a challenge for her but she will almost always find it. This is a healthy exercise for her because it exercises her mind.
 
